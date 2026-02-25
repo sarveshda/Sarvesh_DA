@@ -72,6 +72,11 @@ I believe in the power of data to enable smarter and more impactful choices.
 <img width="1366" height="753" alt="Screenshot 2026-02-25 120904" src="https://github.com/user-attachments/assets/90641dd6-71c4-4fa2-b297-fbdc6147499c" />
 
 
+# Supply Chain Analysis
+<img width="1384" height="754" alt="image" src="https://github.com/user-attachments/assets/788028ea-7d86-49cb-b95b-0baa237ec729" />
+<img width="1380" height="762" alt="image" src="https://github.com/user-attachments/assets/a60f6908-9d68-4130-bd69-0b40eb600415" />
+
+
 
 
 
