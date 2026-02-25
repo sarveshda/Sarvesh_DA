@@ -64,6 +64,14 @@ I believe in the power of data to enable smarter and more impactful choices.
 # Shop Sales Analysis
 <img width="1493" height="804" alt="image" src="https://github.com/user-attachments/assets/99fad01d-90f2-4b09-b930-13307cec0be4" />
 
+# Restaurant Analysis
+<img width="1377" height="748" alt="Screenshot 2026-02-25 121101" src="https://github.com/user-attachments/assets/a964f150-c215-4a88-8df2-73b0ff0556e7" />
+<img width="1413" height="755" alt="Screenshot 2026-02-25 121035" src="https://github.com/user-attachments/assets/131a4c4c-52cc-4d15-9d98-550a49c74526" />
+<img width="1372" height="752" alt="Screenshot 2026-02-25 121000" src="https://github.com/user-attachments/assets/d50b9adb-b8e8-4f15-97ec-6891cb39bab7" />
+<img width="1377" height="753" alt="Screenshot 2026-02-25 120933" src="https://github.com/user-attachments/assets/54298328-7f6a-4b48-b051-5cf72bcf9733" />
+<img width="1366" height="753" alt="Screenshot 2026-02-25 120904" src="https://github.com/user-attachments/assets/90641dd6-71c4-4fa2-b297-fbdc6147499c" />
+
+
 
 
 
