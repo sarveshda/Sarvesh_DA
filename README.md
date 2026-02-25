@@ -54,8 +54,11 @@ I believe in the power of data to enable smarter and more impactful choices.
 # This is my population data
 <img width="1514" height="891" alt="image" src="https://github.com/user-attachments/assets/9ba35731-1a9d-418a-8733-6b3d6cd99ebb" />
 
+
 # Coffee Sales Analysis 
-<img width="1366" height="753" alt="Screenshot 2026-02-25 120904" src="https://github.com/user-attachments/assets/2be0cdc3-6c23-4abc-8d28-393c9faf784e" />
+<img width="1390" height="752" alt="image" src="https://github.com/user-attachments/assets/7f9e3ce7-f1a4-45b6-947a-7195c316d0d9" />
+<img width="1388" height="737" alt="image" src="https://github.com/user-attachments/assets/631ffb70-12c9-4e18-83c8-2accbd84166a" />
+
 
 
 # Shop Sales Analysis
